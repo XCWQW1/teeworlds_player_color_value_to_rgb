@@ -6,7 +6,7 @@
  - `pip install teeworlds_player_color_value_to_rgb`
 
 使用/use:
-> 我使用了py自带的math和colorsys库(I used the math and colorsys libraries that come with py)
+> 我使用了py自带的math，typing和colorsys库(I used the math,typing and colorsys libraries that come with py)
  - ```
    from teeworlds_player_color_value_to_rgb import value_to_rgb
    value = 8624384
