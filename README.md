@@ -1,5 +1,5 @@
 # teeworlds_player_color_value_to_rgb
----
+
 吧teeworlds/ddnet中有关颜色的值转换到RGB(Convert the value of the color in teeworlds/ddnet to RGB)
 
 安装(install):
