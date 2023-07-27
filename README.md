@@ -8,7 +8,7 @@
 使用/use:
 > 我使用了py自带的math和colorsys库(I used the math and colorsys libraries that come with py)
  - ```
-   form teeworlds_player_color_value_to_rgb import value_to_rgb
+   from teeworlds_player_color_value_to_rgb import value_to_rgb
    value = 8624384
    rgb = value_to_rgb(value)
    print(rgb)
